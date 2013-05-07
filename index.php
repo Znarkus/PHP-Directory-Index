@@ -1,5 +1,10 @@
 <?php
 
+/**
+* @author Markus Hedlund
+* @link https://github.com/Znarkus/PHP-Directory-Index
+*/
+
 define('USERNAME', 'john');
 define('PASSWORD', 'doe');
 define('ALLOWED_EXTENSIONS', 'mp3,m4a,wav');
